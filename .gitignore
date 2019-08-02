@@ -1,0 +1,12 @@
+*/.vs/*
+.vs/*
+*/*/bin/*
+*.dll
+*.exe
+*.suo
+*.tmp
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
