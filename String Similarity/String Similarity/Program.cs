@@ -15,9 +15,6 @@ using System;
 
 class Solution
 {
-
-
-
     static long[] getZArray(string s)
     {
 
