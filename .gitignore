@@ -2,6 +2,7 @@
 .vs/*
 **/bin/*
 **/obj/*
+**/Debug/*
 *.dll
 *.exe
 *.suo
@@ -11,3 +12,4 @@
 *.booproj
 *.svd
 *.pdb
+*.meta
