@@ -27,9 +27,6 @@ def happyLadybugs(b):
             if key != "_" and value == 1:
                 return "NO"
         return "YES"
-
-
-
     for i in range(0, len(b)):
         if (i - 1 < 0 or b[i] != b [i - 1]) and ( i + 1 >= len(b) or b[i] != b [i + 1]):
             return "NO"
