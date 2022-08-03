@@ -13,3 +13,7 @@
 *.svd
 *.pdb
 *.meta
+**/lib/**
+**/out/**
+*.iml
+**/.idea/**
